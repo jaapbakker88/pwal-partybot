@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="115px" height="77px" viewBox="0 0 115 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>wifi</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="97.735568%" y1="82.6266635%" x2="0%" y2="22.4745263%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M26.1850984,54.9194899 C44.4154944,36.9064048 70.9092765,36.9064048 89.1396725,54.9194899 C91.2260927,56.9810394 94.3065331,56.6173167 96.0200288,54.1070924 C97.7335245,51.5968682 97.4312095,47.8907133 95.3447893,45.8291638 C73.5078362,24.2525126 41.8169347,24.2525126 19.9799816,45.8291638 C17.8935614,47.8907133 17.5912464,51.5968682 19.3047421,54.1070924 C21.0182378,56.6173167 24.0986782,56.9810394 26.1850984,54.9194899 Z M8.65713843,34.126498 C36.5250761,4.96140742 78.3576228,4.96140742 106.225561,34.126498 C108.262592,36.2583458 111.350361,35.9997813 113.122287,33.548978 C114.894212,31.0981747 114.679302,27.3832019 112.64227,25.2513541 C81.0951115,-7.76421217 33.7875874,-7.76421217 2.24042863,25.2513541 C0.2033973,27.3832019 -0.0115134457,31.0981747 1.76041204,33.548978 C3.53233753,35.9997813 6.62010711,36.2583458 8.65713843,34.126498 Z M43.1771917,75.9351744 C51.7142185,68.740248 63.1684805,68.740248 71.7055073,75.9351744 C73.9167937,77.7988259 76.9651155,77.1528899 78.5141245,74.4924359 C80.0631335,71.831982 79.5262516,68.1644699 77.3149652,66.3008184 C65.4103252,56.2676991 49.4723737,56.2676991 37.5677337,66.3008184 C35.3564473,68.1644699 34.8195654,71.831982 36.3685745,74.4924359 C37.9175835,77.1528899 40.9659053,77.7988259 43.1771917,75.9351744 Z" id="path-3"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landingpage-copy" transform="translate(-521.000000, -340.000000)" fill-rule="nonzero">
+            <g id="wifi" transform="translate(521.000000, 340.000000)">
+                <g id="Shape">
+                    <use fill="#AB18FF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <use fill="url(#linearGradient-2)" fill-rule="evenodd" style="mix-blend-mode: overlay;" xlink:href="#path-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
