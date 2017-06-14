@@ -492,7 +492,7 @@ var pJS = function(tag_id, params){
       
       case 'image':
 
-        if(pJS.tmp.img_type == 'png'){
+        if(pJS.tmp.img_type == 'svg'){
           var img_obj = p.img.obj;
         }else{
           var img_obj = pJS.tmp.img_obj;
@@ -504,15 +504,66 @@ var pJS = function(tag_id, params){
 
       break;
 
-      case 'image2':
+      case 'image1':
 
-        if(pJS.tmp.img_type == 'png'){
+        if(pJS.tmp.img_type == 'svg'){
           var img_obj = p.img.obj;
         }else{
           var img_obj = pJS.tmp.img_obj;
         }
         var element = document.createElement('img');
-        element.src = 'images/image2.png';
+        element.src = 'images/image1.svg';
+        img_obj = element;
+        
+        if(img_obj){
+          draw();
+        }
+
+        break;
+
+      case 'image2':
+
+        if(pJS.tmp.img_type == 'svg'){
+          var img_obj = p.img.obj;
+        }else{
+          var img_obj = pJS.tmp.img_obj;
+        }
+        var element = document.createElement('img');
+        element.src = 'images/image2.svg';
+        img_obj = element;
+        
+        if(img_obj){
+          draw();
+        }
+
+        break;
+
+      case 'image3':
+
+        if(pJS.tmp.img_type == 'svg'){
+          var img_obj = p.img.obj;
+        }else{
+          var img_obj = pJS.tmp.img_obj;
+        }
+        var element = document.createElement('img');
+        element.src = 'images/image3.svg';
+        img_obj = element;
+        
+        if(img_obj){
+          draw();
+        }
+
+        break;
+
+      case 'image4':
+
+        if(pJS.tmp.img_type == 'svg'){
+          var img_obj = p.img.obj;
+        }else{
+          var img_obj = pJS.tmp.img_obj;
+        }
+        var element = document.createElement('img');
+        element.src = 'images/image4.svg';
         img_obj = element;
         
         if(img_obj){
@@ -1300,7 +1351,7 @@ var pJS = function(tag_id, params){
   };
 
   pJS.fn.vendors.exportImg = function(){
-    window.open(pJS.canvas.el.toDataURL('image.png'), '_blank');
+    window.open(pJS.canvas.el.toDataURL('image/png'), '_blank');
   };
 
 
