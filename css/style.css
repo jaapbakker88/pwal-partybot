@@ -58,6 +58,8 @@ header {
     padding: 10px 30px;
     background: rgba(255, 255, 255, 0.2);
     border-radius: 25px 20px 20px 10px; }
+    .chat .bubble:nth-child(2) {
+      border-radius: 10px 20px 20px 10px; }
     .chat .bubble.writing {
       width: auto;
       height: 40px;
@@ -98,7 +100,6 @@ header {
   background: #232323;
   background-size: cover; }
   #two .about .item {
-    padding-top: 3em;
     padding-bottom: 3em; }
     #two .about .item p {
       font-weight: 200; }

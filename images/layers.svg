@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="77px" height="77px" viewBox="0 0 77 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>layers</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="97.735568%" y1="82.6266635%" x2="0%" y2="22.4745263%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M37.9347524,0.369504832 C38.9200986,-0.123168277 40.0799014,-0.123168277 41.0652476,0.369504832 L76.0652476,17.8695048 C78.6449175,19.1593398 78.6449175,22.8406602 76.0652476,24.1304952 L41.0652476,41.6304952 C40.0799014,42.1231683 38.9200986,42.1231683 37.9347524,41.6304952 L2.93475242,24.1304952 C0.355082528,22.8406602 0.355082528,19.1593398 2.93475242,17.8695048 L37.9347524,0.369504832 Z M12.3262379,21 L39.5,34.586881 L66.6737621,21 L39.5,7.41311896 L12.3262379,21 Z M6.06524758,52.8695048 L39.5,69.586881 L72.9347524,52.8695048 C74.6636772,52.0050425 76.7660328,52.7058277 77.6304952,54.4347524 C78.4949575,56.1636772 77.7941723,58.2660328 76.0652476,59.1304952 L41.0652476,76.6304952 C40.0799014,77.1231683 38.9200986,77.1231683 37.9347524,76.6304952 L2.93475242,59.1304952 C1.20582767,58.2660328 0.505042461,56.1636772 1.36950483,54.4347524 C2.2339672,52.7058277 4.33632284,52.0050425 6.06524758,52.8695048 Z M6.06524758,35.3695048 L39.5,52.086881 L72.9347524,35.3695048 C74.6636772,34.5050425 76.7660328,35.2058277 77.6304952,36.9347524 C78.4949575,38.6636772 77.7941723,40.7660328 76.0652476,41.6304952 L41.0652476,59.1304952 C40.0799014,59.6231683 38.9200986,59.6231683 37.9347524,59.1304952 L2.93475242,41.6304952 C1.20582767,40.7660328 0.505042461,38.6636772 1.36950483,36.9347524 C2.2339672,35.2058277 4.33632284,34.5050425 6.06524758,35.3695048 Z" id="path-3"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landingpage-copy" transform="translate(-837.000000, -340.000000)" fill-rule="nonzero">
+            <g id="layers" transform="translate(836.000000, 340.000000)">
+                <g id="Combined-Shape">
+                    <use fill="#AB18FF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <use fill="url(#linearGradient-2)" fill-rule="evenodd" style="mix-blend-mode: overlay;" xlink:href="#path-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
