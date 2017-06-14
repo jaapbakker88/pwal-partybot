@@ -1,7 +1,7 @@
 {
   "particles": {
     "number": {
-      "value": 40,
+      "value": 100,
       "density": {
         "enable": true,
         "value_area": 1500
@@ -13,22 +13,22 @@
     "shape": {
       "type": ["image1", "image2", "image3", "image4" ],
       "image1": {
-        "src": "images/image1.png",
+        "src": "images/image1.svg",
         "width": 15,
         "height": 15
       },
       "image2": {
-        "src": "images/image2.png",
+        "src": "images/image2.svg",
         "width": 15,
         "height": 15
       },
       "image3": {
-        "src": "images/image3.png",
+        "src": "images/image3.svg",
         "width": 15,
         "height": 15
       },
       "image4": {
-        "src": "images/image4.png",
+        "src": "images/image4.svg",
         "width": 15,
         "height": 15
       }
@@ -67,10 +67,10 @@
       "random": false,
       "straight": false,
       "out_mode": "out",
-      "bounce": false,
+      "bounce": true,
       "attract": {
-        "enable": false,
-        "rotateX": 600,
+        "enable": true,
+        "rotateX": 3000,
         "rotateY": 1200
       }
     }
