@@ -48,6 +48,7 @@ header {
       color: #fff; }
 
 .chat {
+  padding: 15px;
   width: 100%; }
   .chat a {
     text-decoration: none; }
