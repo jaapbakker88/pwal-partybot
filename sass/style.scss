@@ -2,7 +2,7 @@
 @import 'flexboxgrid.css';
 @import url('https://rawgit.com/kremalicious/appstorebadges/master/dist/appstorebadges.min.css');
 
-$margin: 6em;
+$margin: 4em;
 
 $messenger-blue: #0082FF;
 
@@ -55,6 +55,11 @@ header {
 		color: darken(#fff, 10%);
 		&:hover {
 			color: #fff;
+		}
+	}
+	.buttons {
+		p {
+			font-size: 20px;
 		}
 	}
 }
