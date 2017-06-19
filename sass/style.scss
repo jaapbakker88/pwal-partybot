@@ -17,6 +17,12 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.link {
+	color: #0082FF; text-decoration: none; 
+	&:hover {
+		text-decoration: underline;
+	}
+}
 .container {
   padding-right: 15px;
   padding-left: 15px;

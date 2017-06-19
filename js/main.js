@@ -11,11 +11,11 @@ $(document).ready(function() {
 	  console.log('callback - particles.js config loaded');
 	});
 
-    $('.writing').delay(1000).fadeOut();
-    $('.intro').delay(1500).fadeIn('fast');
-    $('.writing').delay(500).fadeIn('fast');
-    $('.writing').delay(500).fadeOut();
-    $('.button').delay(3300).fadeIn('fast');
+    $('.writing').delay(2000).fadeOut();
+    $('.intro').delay(2500).fadeIn('fast');
+    $('.writing').delay(1000).fadeIn('fast');
+    $('.writing').delay(3000).fadeOut();
+    $('.button').delay(7000).fadeIn('fast');
 });
 
 $(document).ready(function () {
